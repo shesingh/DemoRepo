@@ -1,0 +1,98 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 738095,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksAndTagsStepDefinition.asetup1()"
+            }
+          },
+          {
+            "result": {
+              "duration": 161542,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksAndTagsStepDefinition.setup()"
+            }
+          },
+          {
+            "result": {
+              "duration": 459190,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksAndTagsStepDefinition.setupForFirstSceanrio()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Hooks Demo in definition file",
+        "description": "",
+        "id": "hooks-demo-in-definition-file;hooks-demo-in-definition-file",
+        "after": [
+          {
+            "result": {
+              "duration": 209737,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksAndTagsStepDefinition.teardownForFirstSceanrio()"
+            }
+          },
+          {
+            "result": {
+              "duration": 99960,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksAndTagsStepDefinition.teardown()"
+            }
+          },
+          {
+            "result": {
+              "duration": 137890,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksAndTagsStepDefinition.ateardown1()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 280401445,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "dummy step",
+            "match": {
+              "location": "HooksAndTagsStepDefinition.dummy_step()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@MyTag"
+          }
+        ]
+      }
+    ],
+    "name": "Hooks Demo in definition file",
+    "description": "",
+    "id": "hooks-demo-in-definition-file",
+    "keyword": "Feature",
+    "uri": "C:/Users/shefali.singh.GROUPINFRA/eclipse-workspace/FacebookBDDFramework/src/test/java/features/hookAndTags.feature"
+  }
+]

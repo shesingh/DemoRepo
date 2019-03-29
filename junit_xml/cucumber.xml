@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.282208">
+<testcase classname="Hooks Demo in definition file" name="Hooks Demo in definition file" time="0.282208">
+<system-out><![CDATA[Given dummy step............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
